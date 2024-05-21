@@ -44,7 +44,7 @@ const HomeComponent = () => {
         </div>
 
         <footer className="pt-3 mt-4 text-muted border-top">
-          &copy; 2024 Augue Lin
+          &copy; 2024 Augues Lin
         </footer>
       </div>
     </main>
